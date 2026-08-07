@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "title": "2025 年度报告",
+    "subtitle": "星图 SaaS 产品线成果回顾",
+    "period": "2025年1月-12月",
+    "author": "产品 & 工程团队",
+    "accent": "violet",
+    "preset": "dashboard",
+    "labels": {
+      "metrics": "核心指标",
+      "growth": "用户增长",
+      "milestones": "产品里程碑",
+      "features": "功能使用分布",
+      "team": "团队亮点",
+      "outlook": "展望 2026"
+    }
+  },
+  "metrics": [
+    {
+      "label": "月活跃用户",
+      "value": 620,
+      "unit": "万",
+      "prev": 450,
+      "delta": "+38%",
+      "decimals": 0
+    },
+    {
+      "label": "API 调用",
+      "value": 52,
+      "unit": "亿",
+      "prev": 18,
+      "delta": "+189%",
+      "decimals": 1
+    },
+    {
+      "label": "可用性",
+      "value": 99.97,
+      "unit": "%",
+      "prev": 99.95,
+      "delta": "+0.02%",
+      "decimals": 2
+    },
+    {
+      "label": "NPS",
+      "value": 64,
+      "unit": "分",
+      "prev": 58,
+      "delta": "+6",
+      "decimals": 0
+    },
+    {
+      "label": "付费客户",
+      "value": 1280,
+      "unit": "家",
+      "prev": 890,
+      "delta": "+44%",
+      "decimals": 0
+    },
+    {
+      "label": "总收入",
+      "value": 1.8,
+      "unit": "亿",
+      "prev": 1.1,
+      "delta": "+64%",
+      "decimals": 1
+    }
+  ],
+  "growth": {
+    "caption": "月活跃用户（MAU）",
+    "labels": ["1月", "2月", "3月", "4月", "5月", "6月", "7月", "8月", "9月", "10月", "11月", "12月"],
+    "series": [
+      {
+        "label": "2023",
+        "data": [0.8, 0.9, 1.0, 1.1, 1.2, 1.4, 1.5, 1.6, 1.7, 1.8, 2.0, 2.2],
+        "color": "#666",
+        "dash": true
+      },
+      {
+        "label": "2024",
+        "data": [1.6, 1.8, 2.0, 2.2, 2.4, 2.7, 3.0, 3.3, 3.5, 3.8, 4.2, 4.5],
+        "color": "#999",
+        "dash": true
+      },
+      {
+        "label": "2025",
+        "data": [3.3, 3.7, 4.2, 4.6, 5.0, 5.5, 5.8, 6.1, 6.3, 6.4, 6.4, 6.55],
+        "color": "#c2ef4e"
+      }
+    ]
+  },
+  "milestones": [
+    {"quarter": "Q1", "title": "重构核心服务", "detail": "性能提升 40%，延迟降低 150ms"},
+    {"quarter": "Q2", "title": "上线数据分析", "detail": "覆盖 80% 核心业务场景"},
+    {"quarter": "Q3", "title": "开放 API 平台", "detail": "首月调用破 10 亿次"},
+    {"quarter": "Q4", "title": "国际化启动", "detail": "支持英文/西班牙语界面"}
+  ],
+  "features": [
+    {"label": "数据分析", "value": 35},
+    {"label": "实时监控", "value": 28},
+    {"label": "告警通知", "value": 20},
+    {"label": "报表导出", "value": 12},
+    {"label": "自定义仪表盘", "value": 5}
+  ],
+  "team": [
+    {"label": "工程", "achievement": "重构 50+ 核心模块，性能提升 40%"},
+    {"label": "产品", "achievement": "完成 12 个版本迭代，用户满意度达 4.8/5"},
+    {"label": "设计", "achievement": "统一设计系统，交付 200+ 组件"},
+    {"label": "运营", "achievement": "组织 4 场技术沙龙，覆盖 500+ 开发者"}
+  ],
+  "outlook": [
+    {"title": "深化数据分析", "detail": "增强预测与异常检测能力"},
+    {"title": "拓展生态", "detail": "与 5 家头部 SaaS 厂商深度集成"},
+    {"title": "全球化", "detail": "支持 10 种语言，覆盖 20 个国家"}
+  ]
+}
