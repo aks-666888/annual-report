@@ -100,3 +100,10 @@ MIT License
 ---
 
 **一键体验**：下载 `annual-report.zip` → 解压 → 运行 `scripts/generate.py` 即可生成你的第一份年度报告！
+
+
+## 💛 支持作者
+
+工具永久免费开源。如果它帮到了你，欢迎到爱发电请我喝杯奶茶：
+https://afdian.com/a/xiaoqiangdev
+你的支持让我能持续更新更多效率工具。
