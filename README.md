@@ -107,3 +107,10 @@ MIT License
 工具永久免费开源。如果它帮到了你，欢迎到爱发电请我喝杯奶茶：
 https://afdian.com/a/xiaoqiangdev
 你的支持让我能持续更新更多效率工具。
+
+## 📮 反馈与建议
+
+用着有问题、想要什么功能、或者就是想吐槽 —— 直接开个 Issue，我每天都看：
+https://github.com/aks-666888/annual-report/issues
+
+你的反馈决定下一个版本往哪走。
